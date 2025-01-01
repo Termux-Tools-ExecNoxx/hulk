@@ -1,0 +1,16 @@
+How to install Hulk on termux-DDoS attack
+
+Installation Commands:-
+             👇👇
+
+apt update && apt upgrade
+apt install python2
+git clone https://github.com/darkwarrior3/hulk.git
+cd hulk
+chmod +x hulk.py
+python2 hulk.py
+
+                 👇👇,  for example u can copy ur friend website and finish him😂😂 or u can ddos any panel site , hey don't do am reach my side ma no kill you if you ask ur friend to give you panel and he refuse use this hack to end him 😈😈
+
+
+ (Website Address)
